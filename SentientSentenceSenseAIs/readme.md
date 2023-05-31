@@ -1,4 +1,5 @@
 **Team Members**
+
 Ivan Hernandez [https://computationalorganizationalresearch.com](https://computationalorganizationalresearch.com)
 
 Joe Meyer [https://www.linkedin.com/in/meyerjoe152](https://www.linkedin.com/in/meyerjoe152)
