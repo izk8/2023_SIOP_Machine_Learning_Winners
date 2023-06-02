@@ -23,4 +23,4 @@ For rating_interprets_information, I additionally added the columns for cosine s
 
 For rating_involves_others, I used a different model that computed each cosine similarity over the whole data set, and also included the actual distilbert embeddings, as well as the TFIDF scores for each word instead of the cosine similarities. In this model I additionally included counts of the words "please" and "thank", and the overall and mean length of participant responses as predictors as well, before separating/clustering them into only 2 groups after all these predictors were added (unlike all the previous models, in which participants were grouped/clustered into 3 groups before any NLP analysis was performed). 
 
-More detailed descriptions can be found in the jupyter notebook file containing all the code as well. 
+More detailed descriptions can be found in the jupyter notebook file containing all code as well. 
