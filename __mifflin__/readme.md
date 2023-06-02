@@ -1,6 +1,6 @@
-team \__mifflin__\: Ammar Ansari 
+# __ mifflin __: Ammar Ansari 
 
-My approach involved the following:
+## Approach:
 
 1. Impute the mean for missing rating values in the training set. 
 2. Clean text of email prompts using the stringr library in R.
