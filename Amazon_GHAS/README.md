@@ -1,2 +1,4 @@
 # Amazon Global Hiring Applied Science
-More to come...
+### Team Members
+
+Egyn Zhu: https://www.linkedin.com/in/egynzhu/
