@@ -14,6 +14,7 @@ The competition portal will provide details about the data, optimization criteri
 [Competition Overview and Awards Presentation](https://github.com/izk8/2023_SIOP_Machine_Learning_Winners/blob/main/SIOP%202023%20ML%20Competition%20Deck.pdf)
 
 ## First Place: Sentient Sentence Sense-AIs
+
 Ivan Hernandez @ Virginia Tech
 
 Weiwen Nie @ Hogan Assessments
@@ -26,18 +27,21 @@ Private Test Set Overall Score = .520
 
  
 ## Second Place: Team__mifflin__
+
 Ammar Ansari @ California Baptist University
 
 Private Test Set Overall Score = .501
 
 
 ## Third Place: mustafaakben
+
 Mustafa Akben @ Elon University
 
 Private Test Set Overall Score = .500
 
 
 ## Fourth Place: GHAAS (Global Hiring at Amazon)
+
 Yizhen Egyn Zhu @ Amazon
 
 Dawn Sepehr  @ Amazon
@@ -46,6 +50,7 @@ Private Test Set Overall Score = .488
 
 
 # Organizers
+
 <hr>
 Isaac Thompson @ Amazon
 
