@@ -10,6 +10,7 @@ The competition portal will provide details about the data, optimization criteri
 
 # Winners
 <hr>
+
 [Competition Overview and Awards Presentation](https://github.com/izk8/2023_SIOP_Machine_Learning_Winners/blob/main/SIOP%202023%20ML%20Competition%20Deck.pdf)
 
 ## First Place: Sentient Sentence Sense-AIs
