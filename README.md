@@ -52,6 +52,7 @@ Private Test Set Overall Score = .488
 # Organizers
 
 <hr>
+
 Isaac Thompson @ Amazon
 
 Georgi Yankov @ DDI
