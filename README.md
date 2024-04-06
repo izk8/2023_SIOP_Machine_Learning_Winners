@@ -14,33 +14,44 @@ The competition portal will provide details about the data, optimization criteri
 
 ## First Place: Sentient Sentence Sense-AIs
 Ivan Hernandez @ Virginia Tech
+
 Weiwen Nie @ Hogan Assessments
+
 Joe Meyer @ Erudit
+
 Andrew Cutler @ REACT Neuro
+
 Private Test Set Overall Score = .520
 
  
 ## Second Place: Team__mifflin__
 Ammar Ansari @ California Baptist University
+
 Private Test Set Overall Score = .501
 
 
 ## Third Place: mustafaakben
 Mustafa Akben @ Elon University
+
 Private Test Set Overall Score = .500
 
 
 ## Fourth Place: GHAAS (Global Hiring at Amazon)
 Yizhen Egyn Zhu @ Amazon
+
 Dawn Sepehr  @ Amazon
+
 Private Test Set Overall Score = .488
 
 
 # Organizers
 <hr>
 Isaac Thompson @ Amazon
+
 Georgi Yankov @ DDI
+
 Sebastian Marin @ University of Minnesota
+
 Nick Koenig @ Walamrt
 
 
