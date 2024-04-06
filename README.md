@@ -1,4 +1,4 @@
-# 2021 SIOP Machine Learning Competition
+# 2023 SIOP Machine Learning Competition
 <hr>
 Data and Winning Code for the 2022-2023 SIOP Machine Learning Competition
 
